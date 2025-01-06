@@ -1,9 +1,5 @@
 # Campr
-<<<<<<< HEAD
-Home to everything camping! Created with HTML, CSS, JS. 
-=======
-Home to everything camping!
->>>>>>> origin/main
+A **top 10** project made at the **University of Waterloo's *StarterHacks* Hackathon**. Created with HTML, CSS, JS. 
 <br>
 
 <img src="img/campr.png" height="200">
